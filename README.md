@@ -9,6 +9,7 @@ App bar with title, icons, and a pop-up menu
 Stylish UI with teal color scheme
 Dynamic list views for displaying chats, status updates, and call history
 Integration of network images for user avatars
+
 Screenshots:
 
 
