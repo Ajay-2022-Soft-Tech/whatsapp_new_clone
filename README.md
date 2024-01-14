@@ -10,10 +10,13 @@ Stylish UI with teal color scheme
 Dynamic list views for displaying chats, status updates, and call history
 Integration of network images for user avatars
 Screenshots:
-![Screenshot_20240114_171544](https://github.com/Ajay-2022-Soft-Tech/whatsapp_new_clone/assets/113298640/d56a6ffe-2a68-481a-bc35-ff9bdefacde5)
-![Screenshot_20240114_171557](https://github.com/Ajay-2022-Soft-Tech/whatsapp_new_clone/assets/113298640/96de6f97-bb92-424f-b6a9-43e3f9286001)
-![Screenshot_20240114_171609](https://github.com/Ajay-2022-Soft-Tech/whatsapp_new_clone/assets/113298640/034d535d-1526-442e-86a3-451accde66a6)
-![Screenshot_20240114_171632](https://github.com/Ajay-2022-Soft-Tech/whatsapp_new_clone/assets/113298640/84966aa1-828f-49b0-8a96-fabb7b018a46)
+![1](https://github.com/Ajay-2022-Soft-Tech/whatsapp_new_clone/assets/113298640/f466048d-3eb8-4193-b9b6-21a037c04ed6)
+
+![2](https://github.com/Ajay-2022-Soft-Tech/whatsapp_new_clone/assets/113298640/bc29b47c-ab53-414a-a737-bab87b4b17aa)
+
+![3](https://github.com/Ajay-2022-Soft-Tech/whatsapp_new_clone/assets/113298640/8fc0d956-4f61-4419-94cf-5cfa943cc39b)
+
+![4](https://github.com/Ajay-2022-Soft-Tech/whatsapp_new_clone/assets/113298640/14b327bd-5d73-4beb-b626-15a6f3574324)
 
 
 How to Use:
